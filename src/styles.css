@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+}
+header {
+  background: rgb(226, 219, 219);
+  width: 100%;
+  height: 10vh;
+  display: flex;
+}
+header > h1 {
+  font-family: "Oswald", sans-serif;
+  letter-spacing: 0.3em;
+}
+
+h2 {
+  background: rgb(221, 219, 219);
+  width: 45px;
+  height: 45px;
+  border: #a4cb0c solid 4px;
+  border-radius: 50px;
+  position: relative;
+  left: -150px;
+}
+h2 > span {
+  font-size: 10px;
+  display: flex;
+  align-items: center;
+  margin: 4px;
+  color: #a4cb0c;
+}
+h3 {
+  color: #a4cb0c;
+  font-size: 15px;
+  position: relative;
+  top: 40px;
+  left: -130px;
+  font-family: "Oswald", sans-serif;
+}
+
+nav {
+  width: 100%;
+  height: 10vh;
+  cursor: pointer;
+  background: #a4cb0c;
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+}
+
+.navbar a {
+  margin-top: 3px;
+  font-family: "Oswald", sans-serif;
+  float: left;
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+}
+.imgForum {
+  width: 100vw;
+  height: 20vh;
+}
