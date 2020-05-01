@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: "Oswald", sans-serif;
 }
 header {
   background: rgb(226, 219, 219);
@@ -61,3 +62,217 @@ nav {
   width: 100vw;
   height: 20vh;
 }
+
+.bg > img {
+  background-image: url(./assets/img/el-paso-1180356_1920.jpg);
+  width: 100vw;
+  height: 25vh;
+}
+.rectangle {
+  margin: 0px 10px;
+  width: 98vw;
+  height: 22vh;
+  border: 3px solid #ffffff;
+  background: rgba(227, 255, 224, alpha);
+  position: absolute;
+  top: 135px;
+}
+.slogan {
+  color: #ffffff;
+  position: relative;
+  top: 100px;
+  left: 10px;
+}
+
+.name {
+  width: 165px;
+  color: #ffffff;
+  position: relative;
+  left: 1100px;
+  letter-spacing: 0.2em;
+  font-family: "Oswald", sans-serif;
+}
+
+.circle1 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: rgba(227, 255, 224, alpha);
+  border: #a4cb0c solid 4px;
+  position: relative;
+  left: 1120px;
+  top: -50px;
+}
+.revista {
+  width: 50px;
+  position: relative;
+  color: #ffffff;
+  left: 1100px;
+  top: -110px;
+}
+.tgRosa {
+  position: absolute;
+  background: #63164c;
+  width: 24vw;
+  height: 55vh;
+  margin-top: 5px;
+}
+.text1 {
+  color: aliceblue;
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  letter-spacing: 0.5em;
+  font-size: 17px;
+}
+.circle2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: #ffffff solid 4px;
+  position: relative;
+  background: #bb0099;
+  position: relative;
+  left: 65px;
+  top: 30px;
+}
+.title1 {
+  color: #ffffff;
+  position: relative;
+  top: 70px;
+  left: 10px;
+  letter-spacing: 0.2em;
+}
+.subtitle1 {
+  color: #ffffff;
+  position: relative;
+  top: 50px;
+  left: 77px;
+  letter-spacing: 0.3em;
+}
+.boxGris {
+  background: #3a3a3a;
+  position: absolute;
+  width: 24vw;
+  height: 55vh;
+  margin-top: 5px;
+  left: 340px;
+}
+.circle3 {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: #a4cb0c solid 5px;
+  position: relative;
+  left: 85px;
+  top: 90px;
+  background: #3a3a3a;
+}
+.title2 {
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 40px;
+  font-family: "Oswald", sans-serif;
+  font-size: 25px;
+  letter-spacing: 0.2em;
+}
+.subtitle2 {
+  color: #ffffff;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+  letter-spacing: 0.1em;
+  position: relative;
+  top: 30px;
+}
+.encabezado1 {
+  color: #ffffff;
+  letter-spacing: 0.1em;
+  position: relative;
+  top: -150px;
+  left: 10px;
+}
+.circle5 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: rgba(227, 255, 224, alpha);
+  border: #a4cb0c solid 4px;
+  position: relative;
+  top: -200px;
+  left: 23px;
+}
+.invitacion {
+  color: #ffffff;
+  letter-spacing: 0.2em;
+  font-size: 17px;
+  position: relative;
+  top: -200px;
+  left: 25px;
+}
+.parrafo1 {
+  width: 200px;
+  text-align: center;
+  color: #ffffff;
+  position: relative;
+  top: -50px;
+  left: -25px;
+}
+.FbContact {
+  background: #ffffff;
+  border: 2px solid rgb(110, 110, 110);
+  width: 24vw;
+  height: 55vh;
+  margin-top: 5px;
+  position: absolute;
+  left: 680px;
+}
+.imgContactos {
+  width: 300px;
+  height: 310px;
+}
+.imgBg > img {
+  width: 24vw;
+  height: 55vh;
+  position: absolute;
+  left: 1020px;
+  margin-top: 5px;
+}
+.contacto {
+  width: 24vw;
+  height: 55vh;
+  position: absolute;
+  left: 1020px;
+  background: rgba(227, 255, 224, alpha);
+}
+.line1{
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+.titlePrincipal{
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  top: 50px;
+  letter-spacing: 0.2em;
+}
+.circle6 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background: rgba(227, 255, 224, alpha);
+  border: #044d04 solid 4px;
+  position: relative;
+  top: 5px;
+  left: 105px;
+}
+.rev1{
+  color: #ffffff;
+  font-size: 17px;
+  position: relative;
+  top: -280px;
+  left: 90px;
+}
+
